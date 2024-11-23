@@ -11,6 +11,9 @@ link_fixer.py
 
 link.py
 unlink.py
+test.py
+test_unlink.py
+test_link.py
 
 
 # Ignore .DS_Store files
