@@ -1,13 +1,13 @@
 ## components
 
 nav-bar
-![](<../../z/aharo24 2023-02-24 at 11.29.22 PM.png>)
+![](<../../../../z/aharo24 2023-02-24 at 11.29.22 PM.png>)
 
 profile
-![](<../../z/aharo24 2023-02-24 at 11.29.44 PM.png>)
+![](<../../../../z/aharo24 2023-02-24 at 11.29.44 PM.png>)
 
 trends
-![](<../../z/aharo24 2023-02-24 at 11.30.08 PM.png>)
+![](<../../../../z/aharo24 2023-02-24 at 11.30.08 PM.png>)
 
 feed
 ![](aharo24 2023-02-24 at 11.30.28 PM.png>)
@@ -29,7 +29,7 @@ class Tweet
 
 ```
 
-![](<../../z/aharo24 2023-02-25 at 12.02.21 AM.png>)
+![](<../../../../z/aharo24 2023-02-25 at 12.02.21 AM.png>)
 
 ### react
 react is better because of something called DOM:
@@ -70,7 +70,7 @@ npm start
 
 
 ### older version in CLI
-![](<../../z/aharo24 2023-02-25 at 2.21.45 AM.png>)
+![](<../../../../z/aharo24 2023-02-25 at 2.21.45 AM.png>)
 
 
 
@@ -93,7 +93,7 @@ The `<span>` element can be used in various ways, for example:
 ```
 
 
-![](<../../z/aharo24 2023-02-25 at 12.25.09 PM.png>)
+![](<../../../../z/aharo24 2023-02-25 at 12.25.09 PM.png>)
 
 In the code  provided, the outermost `<span>` element is used to group together a set of elements that need to be displayed as a single entity, likely for layout or styling purposes.
 
@@ -105,10 +105,10 @@ Within this `<span>` element, there is another nested `<span>` element, which is
 
 ### const
 
-![](<../../z/aharo24 2023-02-25 at 10.54.48 PM.png>)
+![](<../../../../z/aharo24 2023-02-25 at 10.54.48 PM.png>)
 
 
-![](<../../z/aharo24 2023-02-25 at 10.55.22 PM.png>)
+![](<../../../../z/aharo24 2023-02-25 at 10.55.22 PM.png>)
 
 
 
@@ -181,7 +181,7 @@ user.setActive(false);
 
 ### JSX
 
-![](<../../z/aharo24 2023-02-26 at 1.00.46 AM.png>)
+![](<../../../../z/aharo24 2023-02-26 at 1.00.46 AM.png>)
 
 
 ### bootstrap icons
@@ -201,7 +201,7 @@ npm install react-bootstrap-icons --save
 
 ```
 
-![](<../../z/aharo24 2023-02-26 at 1.39.00 AM.png>)
+![](<../../../../z/aharo24 2023-02-26 at 1.39.00 AM.png>)
 
 ### react-multi-carousel
 
@@ -227,7 +227,7 @@ npm i react-on-screen
 
 ### .css and .js  (hand to hand code)
 
-![](<../../z/aharo24 2023-02-26 at 5.04.28 PM.png>)
+![](<../../../../z/aharo24 2023-02-26 at 5.04.28 PM.png>)
 
 
 
